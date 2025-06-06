@@ -1,12 +1,10 @@
-# 👋 Привет! Я разработчик
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Добро+пожаловать+на+мой+профиль!;Разработчик+полного+стека;Люблю+создавать+крутые+проекты!" alt="Typing SVG" />
 </div>
 
-## 🧙‍♂️ О себе
 
-Программирование - волшебство, а я ебаный маг)
 ## 📫 Контакты
 
 <div align="center">
@@ -38,21 +36,20 @@
 
 </div>
 
-## ⚙️ Мой боевой сетап
+## ⚙️ Сетап
 
 <div align="center">
 
-### 💻 Железо для магии
+### 💻 
 ![ASUS](https://img.shields.io/badge/ASUS%20ROG%20Zephyrus%20G14-000000?style=for-the-badge&logo=asus&logoColor=white)
 ![AMD](https://img.shields.io/badge/Ryzen%207-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![AMD](https://img.shields.io/badge/RX%206700S-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
-### 🎮 Периферия для комфорта
+### 🎮 
 ![ASUS](https://img.shields.io/badge/ROG%20Chakram%20Mouse-000000?style=for-the-badge&logo=asus&logoColor=white)
 ![Razer](https://img.shields.io/badge/Barracuda%20X%20Headset-00FF00?style=for-the-badge&logo=razer&logoColor=black)
 ![Razer](https://img.shields.io/badge/Mini%20Microphone-00FF00?style=for-the-badge&logo=razer&logoColor=black)
 
-*Этот сетап помогает мне творить магию кода на максимальной скорости! ⚡*
 
 </div>
 
@@ -66,6 +63,5 @@
 
 <img src="https://img.shields.io/badge/🏆_Хакатон-Проектная%20лаборатория%202.0-gold?style=for-the-badge&labelColor=FFD700&color=FFA500" alt="Hackathon Winner"/>
 
-*Заняли первое место в престижном хакатоне, разработав инновационное решение за ограниченное время!*
 
 </div>
