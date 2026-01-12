@@ -42,8 +42,8 @@
 
 ### 💻 
 ![ASUS](https://img.shields.io/badge/ASUS%20ROG%20Zephyrus%20G14-000000?style=for-the-badge&logo=asus&logoColor=white)
-![AMD](https://img.shields.io/badge/Ryzen%207-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![AMD](https://img.shields.io/badge/RX%206700S-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![AMD](https://img.shields.io/badge/Ryzen%209-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![AMD](https://img.shields.io/badge/RTX%204070-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ### 🎮 
 ![ASUS](https://img.shields.io/badge/ROG%20Chakram%20Mouse-000000?style=for-the-badge&logo=asus&logoColor=white)
